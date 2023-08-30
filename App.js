@@ -9,7 +9,6 @@ import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 
 import HomeScreen from './src/pages/HomeScreen'
-import ExploreScreen from './src/pages/ExploreScreen';
 import SettingScreen from './src/pages/SettingScreen';
 import SocialScreen from './src/pages/SocialScreen';
 import ProfileScreen from './src/pages/ProfileScreen';
